@@ -1,0 +1,3083 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Automobiles",
+  "last_updated": "2020-10-05T09:58:35-04:00",
+  "num_results": 37,
+  "results": [
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Led by Tesla, Auto Industry Rebounds as Car Sales Surge",
+      "abstract": "Tesla reported record deliveries in the third quarter as growing interest in electric vehicles and other cars boosted sales across the industry.",
+      "url": "https://www.nytimes.com/2020/10/02/business/tesla-third-quarter-auto-sales.html",
+      "uri": "nyt://article/a1e10221-5ce6-5e71-9981-044135fcb504",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T15:51:32-04:00",
+      "created_date": "2020-10-02T17:18:20-04:00",
+      "published_date": "2020-10-02T17:18:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Factories and Manufacturing",
+        "Coronavirus (2019-nCoV)",
+        "Company Reports"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Europe",
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/business/02JPtesla1-print/merlin_177829038_35f42265-60f4-4e3f-854c-b953dfa0aac7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla&rsquo;s new factory in China helped the company increase production and boost sales while its main factory in the United States was shut down for about two months in the spring.",
+          "copyright": "Aly Song/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/business/02JPtesla1-print/02tesla3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla&rsquo;s new factory in China helped the company increase production and boost sales while its main factory in the United States was shut down for about two months in the spring.",
+          "copyright": "Aly Song/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/business/02JPtesla1-print/02tesla3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla&rsquo;s new factory in China helped the company increase production and boost sales while its main factory in the United States was shut down for about two months in the spring.",
+          "copyright": "Aly Song/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/business/02JPtesla1-print/merlin_177829038_35f42265-60f4-4e3f-854c-b953dfa0aac7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla&rsquo;s new factory in China helped the company increase production and boost sales while its main factory in the United States was shut down for about two months in the spring.",
+          "copyright": "Aly Song/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/03/business/02JPtesla1-print/merlin_177829038_35f42265-60f4-4e3f-854c-b953dfa0aac7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla&rsquo;s new factory in China helped the company increase production and boost sales while its main factory in the United States was shut down for about two months in the spring.",
+          "copyright": "Aly Song/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jr5ukY"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "A YouTuber Hangs His Own Shingle With an Auction Website",
+      "abstract": "Doug DeMuro has a strong following for his giddy videos about exotic and quirky cars. Cars & Bids, his new site, got off to a roaring start.",
+      "url": "https://www.nytimes.com/2020/10/01/business/doug-demuro-youtube.html",
+      "uri": "nyt://article/ab6a07ae-ca36-5cfd-82dd-0d2c09786ef5",
+      "byline": "By Imad Khan",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T19:28:06-04:00",
+      "created_date": "2020-10-01T06:00:07-04:00",
+      "published_date": "2020-10-01T06:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobiles",
+        "Auctions",
+        "Computers and the Internet",
+        "Video Recordings, Downloads and Streaming",
+        "Entrepreneurship"
+      ],
+      "org_facet": [
+        "Cars and Bids LLC"
+      ],
+      "per_facet": [
+        "DeMuro, Doug"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        }
+      ],
+      "short_url": "https://nyti.ms/36mmqFn"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Prosecutors Target Ex-Audi Chief in First VW Emissions Trial",
+      "abstract": "Rupert Stadler is accused of continuing to sell cars with illegal software even after Volkswagen\u2019s cheating scandal came to light.",
+      "url": "https://www.nytimes.com/2020/09/29/business/Volkswagen-Audi-rupert-stadler-diesel.html",
+      "uri": "nyt://article/16ed6b19-d0b9-5b2f-9440-fa0f64fdd9cc",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-09-30T00:31:07-04:00",
+      "created_date": "2020-09-29T00:01:08-04:00",
+      "published_date": "2020-09-29T00:01:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fuel Emissions (Transportation)",
+        "Automobiles",
+        "Frauds and Swindling",
+        "Diesel Power",
+        "Engines"
+      ],
+      "org_facet": [
+        "Audi Division of Volkswagen AG",
+        "Volkswagen AG"
+      ],
+      "per_facet": [
+        "Hatz, Wolfgang",
+        "Liang, James",
+        "Pamio, Zaccheo Giovanni",
+        "Schmidt, Oliver",
+        "Stadler, Rupert (1963- )",
+        "Winterkorn, Martin"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/29audi-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/business/29audi-1/merlin_135522486_abb33f89-2ef5-4bc7-9a8d-b7be2efcdb7a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The trial of Rupert Stadler, a former chief executive of Audi, will test whether prosecutors can convict top managers protected by layers of underlings.",
+          "copyright": "Matthias Schrader/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3icW9M3"
+    },
+    {
+      "section": "at-home",
+      "subsection": "",
+      "title": "7 Things to Know About Your Used Car",
+      "abstract": "Sales of previously owned vehicles are booming, but many new owners may not realize what they\u2019re in for in terms of upkeep.",
+      "url": "https://www.nytimes.com/2020/09/26/at-home/what-to-know-about-a-used-car.html",
+      "uri": "nyt://article/7c880d08-618f-5c53-abd7-9acb75d714f5",
+      "byline": "By Paul Stenquist",
+      "item_type": "Article",
+      "updated_date": "2020-09-29T07:46:57-04:00",
+      "created_date": "2020-09-26T22:06:06-04:00",
+      "published_date": "2020-09-26T22:06:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Automobiles",
+        "Automobile Service and Charging Stations",
+        "Electric and Hybrid Vehicles",
+        "Content Type: Service",
+        "Engines",
+        "Used Cars"
+      ],
+      "org_facet": [
+        "Carfax"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-newcar/27ah-newcar-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1426,
+          "width": 2025,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-newcar/27ah-newcar-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-newcar/27ah-newcar-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-newcar/27ah-newcar-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/multimedia/27ah-newcar/27ah-newcar-articleInline.jpg",
+          "format": "Normal",
+          "height": 134,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rose Wong"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mWZ4vW"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "California Plans to Ban Sales of New Gas-Powered Cars in 15 Years",
+      "abstract": "The proposal would speed up the state\u2019s efforts to fight global warming at a time when California is being battered by wildfires, heat waves and other consequences of climate change.",
+      "url": "https://www.nytimes.com/2020/09/23/climate/california-ban-gas-cars.html",
+      "uri": "nyt://article/cd0b66d6-2ee6-520f-a0c1-65bcb7bf2cb9",
+      "byline": "By Brad Plumer and Jill Cowan",
+      "item_type": "Article",
+      "updated_date": "2020-09-24T10:32:41-04:00",
+      "created_date": "2020-09-23T15:12:59-04:00",
+      "published_date": "2020-09-23T15:12:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Automobiles",
+        "Fuel Emissions (Transportation)",
+        "Electric and Hybrid Vehicles",
+        "Oil (Petroleum) and Gasoline",
+        "Regulation and Deregulation of Industry",
+        "Executive Orders and Memorandums"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newsom, Gavin"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/climate/23CLI-CALIFORNIA/merlin_161014221_adf1783a-b3c3-44b0-97d3-5b68a6539de7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1224,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Transportation remains California\u2019s largest source of planet-warming emissions, accounting for roughly 40 percent of the state\u2019s greenhouse gases from human activity.",
+          "copyright": "Ben Margot/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/climate/23CLI-CALIFORNIA/23CLI-CALIFORNIA-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Transportation remains California\u2019s largest source of planet-warming emissions, accounting for roughly 40 percent of the state\u2019s greenhouse gases from human activity.",
+          "copyright": "Ben Margot/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/climate/23CLI-CALIFORNIA/23CLI-CALIFORNIA-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Transportation remains California\u2019s largest source of planet-warming emissions, accounting for roughly 40 percent of the state\u2019s greenhouse gases from human activity.",
+          "copyright": "Ben Margot/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/climate/23CLI-CALIFORNIA/23CLI-CALIFORNIA-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Transportation remains California\u2019s largest source of planet-warming emissions, accounting for roughly 40 percent of the state\u2019s greenhouse gases from human activity.",
+          "copyright": "Ben Margot/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/23/climate/23CLI-CALIFORNIA/23CLI-CALIFORNIA-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Transportation remains California\u2019s largest source of planet-warming emissions, accounting for roughly 40 percent of the state\u2019s greenhouse gases from human activity.",
+          "copyright": "Ben Margot/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cpQOzF"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "Gavin Newsom: \u2018We Decided to Pull the Band-Aid Off\u2019",
+      "abstract": "Twenty months into his term, California\u2019s governor faces a pandemic and an environmental crisis. He speaks to Kara Swisher about his plan to save the \u201cstate of resistance.\u201d",
+      "url": "https://www.nytimes.com/2020/09/24/opinion/sway-kara-swisher-gavin-newsom.html",
+      "uri": "nyt://article/2b4ffede-bb2f-5f76-809e-3a34cc02a173",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T06:04:52-04:00",
+      "created_date": "2020-09-24T05:00:08-04:00",
+      "published_date": "2020-09-24T05:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "Executive Orders and Memorandums",
+        "Electric and Hybrid Vehicles",
+        "Fuel Emissions (Transportation)",
+        "Automobiles",
+        "Federal-State Relations (US)",
+        "Wildfires",
+        "Forests and Forestry",
+        "Relocation of Business"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Newsom, Gavin",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/opinion/24sway-newsom-art/24sway-newsom-art-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1619,
+          "width": 1619,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/opinion/24sway-newsom-art/24sway-newsom-art-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/opinion/24sway-newsom-art/24sway-newsom-art-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/opinion/24sway-newsom-art/24sway-newsom-art-mediumThreeByTwo210-v2.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/opinion/24sway-newsom-art/24sway-newsom-art-articleInline.png",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Justin Sullivan/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hWLmFJ"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Elon Musk Promises to Make a $25,000 Tesla (in 3 Years)",
+      "abstract": "Tesla said it was working on advances that would lower the cost of batteries and increase their capacity to store energy.",
+      "url": "https://www.nytimes.com/2020/09/22/business/tesla-elon-musk-battery-day.html",
+      "uri": "nyt://article/6b3da4a8-af1e-5c1a-8279-7fbe8318cc94",
+      "byline": "By Niraj Chokshi",
+      "item_type": "Article",
+      "updated_date": "2020-09-23T03:55:34-04:00",
+      "created_date": "2020-09-22T20:34:49-04:00",
+      "published_date": "2020-09-22T20:34:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Automobiles",
+        "Batteries",
+        "Stocks and Bonds"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [
+        "Fremont (Calif)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/business/22markets-brf-tesla/22markets-brf-tesla-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sells more electric cars than any other automaker, but its prices are beyond the reach of most people. A big breakthrough in battery technology could change that.",
+          "copyright": "Julian Stratenschulte/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/business/22markets-brf-tesla/22markets-brf-tesla-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sells more electric cars than any other automaker, but its prices are beyond the reach of most people. A big breakthrough in battery technology could change that.",
+          "copyright": "Julian Stratenschulte/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/business/22markets-brf-tesla/22markets-brf-tesla-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sells more electric cars than any other automaker, but its prices are beyond the reach of most people. A big breakthrough in battery technology could change that.",
+          "copyright": "Julian Stratenschulte/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/business/22markets-brf-tesla/22markets-brf-tesla-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sells more electric cars than any other automaker, but its prices are beyond the reach of most people. A big breakthrough in battery technology could change that.",
+          "copyright": "Julian Stratenschulte/Picture Alliance, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/business/22markets-brf-tesla/22markets-brf-tesla-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tesla sells more electric cars than any other automaker, but its prices are beyond the reach of most people. A big breakthrough in battery technology could change that.",
+          "copyright": "Julian Stratenschulte/Picture Alliance, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/35YigU1"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "A Quadriplegic, a Specialty Van and a Lifetime of Adventures",
+      "abstract": "A biking accident left Kirk Williams paralyzed, but he has traveled widely and inspired others to follow in his tire tracks.",
+      "url": "https://www.nytimes.com/2020/09/24/business/accessible-van-adventures.html",
+      "uri": "nyt://article/7d9fe390-9163-51bd-84a3-7feeb0553c32",
+      "byline": "By Mercedes Lilienthal",
+      "item_type": "Article",
+      "updated_date": "2020-09-25T19:09:16-04:00",
+      "created_date": "2020-09-24T05:00:16-04:00",
+      "published_date": "2020-09-24T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Disabilities",
+        "Vans",
+        "Wheelchairs"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Williams, Kirk (1987- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/20wheels1-print/20wheels-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kirk Williams in Baja, Mexico. &ldquo;When I take the lift out of the van,&rdquo; he said, &ldquo;everyone seems to stop what they&rsquo;re doing to watch me.&rdquo;",
+          "copyright": "Kirk Williams"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/20wheels1-print/20wheels-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kirk Williams in Baja, Mexico. &ldquo;When I take the lift out of the van,&rdquo; he said, &ldquo;everyone seems to stop what they&rsquo;re doing to watch me.&rdquo;",
+          "copyright": "Kirk Williams"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/20wheels1-print/20wheels-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kirk Williams in Baja, Mexico. &ldquo;When I take the lift out of the van,&rdquo; he said, &ldquo;everyone seems to stop what they&rsquo;re doing to watch me.&rdquo;",
+          "copyright": "Kirk Williams"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/20wheels1-print/20wheels-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kirk Williams in Baja, Mexico. &ldquo;When I take the lift out of the van,&rdquo; he said, &ldquo;everyone seems to stop what they&rsquo;re doing to watch me.&rdquo;",
+          "copyright": "Kirk Williams"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/business/20wheels1-print/20wheels-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kirk Williams in Baja, Mexico. &ldquo;When I take the lift out of the van,&rdquo; he said, &ldquo;everyone seems to stop what they&rsquo;re doing to watch me.&rdquo;",
+          "copyright": "Kirk Williams"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cye26T"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Head of Nikola, a G.M. Electric Truck Partner, Quits Amid Fraud Claims",
+      "abstract": "Trevor Milton, founder and executive chairman of Nikola, resigned after an investment fund accused him of making false assertions about his company\u2019s technology.",
+      "url": "https://www.nytimes.com/2020/09/21/business/nikola-trevor-milton-resigns.html",
+      "uri": "nyt://article/bc139be1-0dc2-529b-878d-fca564e0654d",
+      "byline": "By Neal E. Boudette and Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-09-22T12:13:13-04:00",
+      "created_date": "2020-09-21T05:02:23-04:00",
+      "published_date": "2020-09-21T05:02:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds",
+        "Appointments and Executive Changes",
+        "Securities and Commodities Violations",
+        "Electric and Hybrid Vehicles",
+        "Hydrogen",
+        "Trucks and Trucking"
+      ],
+      "org_facet": [
+        "General Motors",
+        "Securities and Exchange Commission",
+        "Nikola Motor Co",
+        "Hindenburg Research"
+      ],
+      "per_facet": [
+        "Milton, Trevor (1981- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/world/21nikola/merlin_165334506_0aa7df06-2484-476e-94c4-8d1bad8b90a1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Milton founded Nikola in 2014 with a plan to produce zero-emission semi trucks that run on hydrogen fuel cells and batteries.",
+          "copyright": "Massimo Pinca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/world/21nikola/21nikola-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Milton founded Nikola in 2014 with a plan to produce zero-emission semi trucks that run on hydrogen fuel cells and batteries.",
+          "copyright": "Massimo Pinca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/world/21nikola/21nikola-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Milton founded Nikola in 2014 with a plan to produce zero-emission semi trucks that run on hydrogen fuel cells and batteries.",
+          "copyright": "Massimo Pinca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/world/21nikola/21nikola-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Milton founded Nikola in 2014 with a plan to produce zero-emission semi trucks that run on hydrogen fuel cells and batteries.",
+          "copyright": "Massimo Pinca/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/21/world/21nikola/merlin_165334506_0aa7df06-2484-476e-94c4-8d1bad8b90a1-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trevor Milton founded Nikola in 2014 with a plan to produce zero-emission semi trucks that run on hydrogen fuel cells and batteries.",
+          "copyright": "Massimo Pinca/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ceZtoI"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "A Car Insurance Claim Estimate Before the Tow Truck Is Called",
+      "abstract": "Using algorithms, tech companies are helping insurers speed up the process after an accident, make it more accurate and keep estimators out of the field \u2014 a plus during a pandemic.",
+      "url": "https://www.nytimes.com/2020/09/17/business/car-insurance-claim-estimate-artificial-intelligence.html",
+      "uri": "nyt://article/ca1cb92b-7271-5802-b8cc-ee2cc783d5cf",
+      "byline": "By Mark Gardiner",
+      "item_type": "Article",
+      "updated_date": "2020-09-20T02:04:51-04:00",
+      "created_date": "2020-09-17T06:00:09-04:00",
+      "published_date": "2020-09-17T06:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobile Insurance and Liability",
+        "Traffic Accidents and Safety",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Mobile Applications"
+      ],
+      "org_facet": [
+        "Tractable Ltd"
+      ],
+      "per_facet": [
+        "Dalyac, Alex"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/business/00wheels-ai-insurance1/merlin_177135813_6cd3a34e-f6d2-4751-9b82-130df96c51ed-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 850,
+          "width": 1280,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tractable\u2019s algorithm \u201cfigures out the best combinations of pixel patterns that give it the most accuracy. It\u2019s kind of magical, but it\u2019s very data hungry,\u201d a founder of the company said.",
+          "copyright": "Tractable"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/business/00wheels-ai-insurance1/00wheels-ai-insurance1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tractable\u2019s algorithm \u201cfigures out the best combinations of pixel patterns that give it the most accuracy. It\u2019s kind of magical, but it\u2019s very data hungry,\u201d a founder of the company said.",
+          "copyright": "Tractable"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/business/00wheels-ai-insurance1/00wheels-ai-insurance1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tractable\u2019s algorithm \u201cfigures out the best combinations of pixel patterns that give it the most accuracy. It\u2019s kind of magical, but it\u2019s very data hungry,\u201d a founder of the company said.",
+          "copyright": "Tractable"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/business/00wheels-ai-insurance1/00wheels-ai-insurance1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tractable\u2019s algorithm \u201cfigures out the best combinations of pixel patterns that give it the most accuracy. It\u2019s kind of magical, but it\u2019s very data hungry,\u201d a founder of the company said.",
+          "copyright": "Tractable"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/16/business/00wheels-ai-insurance1/merlin_177135813_6cd3a34e-f6d2-4751-9b82-130df96c51ed-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tractable\u2019s algorithm \u201cfigures out the best combinations of pixel patterns that give it the most accuracy. It\u2019s kind of magical, but it\u2019s very data hungry,\u201d a founder of the company said.",
+          "copyright": "Tractable"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kqa82B"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Chevy\u2019s Little Engine That Could",
+      "abstract": "For six decades, a small-block Chevy has powered the dreams of hot-rodders and Corvettes, and plenty of other cars, even a Ford Mustang.",
+      "url": "https://www.nytimes.com/2020/09/10/business/chevy-engine-corvette-sbc.html",
+      "uri": "nyt://article/c94f4988-0571-506e-9fbf-a489ae65a4f8",
+      "byline": "By Roy Furchgott",
+      "item_type": "Article",
+      "updated_date": "2020-09-12T11:55:46-04:00",
+      "created_date": "2020-09-10T14:45:30-04:00",
+      "published_date": "2020-09-10T14:45:30-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobiles",
+        "Antique and Classic Cars",
+        "Engines",
+        "Engineering and Engineers",
+        "Automobile Racing"
+      ],
+      "org_facet": [
+        "Chevrolet Division of General Motors Corp"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/10wheels-promo-sub/10wheels-promo-sub-superJumbo-v4.jpg",
+          "format": "superJumbo",
+          "height": 1384,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/10wheels-promo-sub/10wheels-promo-sub-thumbStandard-v4.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/10wheels-promo-sub/10wheels-promo-sub-thumbLarge-v4.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/10wheels-promo-sub/10wheels-promo-sub-mediumThreeByTwo210-v4.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eve Edelheit for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/10/business/10wheels-promo-sub/10wheels-promo-sub-articleInline-v4.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Eve Edelheit for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FrHv5P"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "With Nissan\u2019s Carlos Ghosn Gone, Greg Kelly Faces Trial Alone",
+      "abstract": "Japanese prosecutors say the former car executive helped Mr. Ghosn conceal his pay. For the world, the country\u2019s court system itself could face judgment.",
+      "url": "https://www.nytimes.com/2020/09/14/business/nissan-ghosn-kelly.html",
+      "uri": "nyt://article/aad1e034-cc80-56af-a6ea-61f063555b2f",
+      "byline": "By Ben Dooley",
+      "item_type": "Article",
+      "updated_date": "2020-09-16T00:13:01-04:00",
+      "created_date": "2020-09-14T23:52:44-04:00",
+      "published_date": "2020-09-14T23:52:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles"
+      ],
+      "org_facet": [
+        "Nissan Motor Co"
+      ],
+      "per_facet": [
+        "Ghosn, Carlos",
+        "Kelly, Greg (Nissan Executive)"
+      ],
+      "geo_facet": [
+        "Japan",
+        "Tokyo (Japan)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/merlin_177040974_c83c8b3d-95c6-4bde-9d6f-0456de25c05e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greg Kelly, a former Nissan executive, left in foreground, pleaded not guilty on the opening day of his trial on Tuesday.",
+          "copyright": "Pool photo by Kiyoshi Ota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/15japan-kelly-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greg Kelly, a former Nissan executive, left in foreground, pleaded not guilty on the opening day of his trial on Tuesday.",
+          "copyright": "Pool photo by Kiyoshi Ota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/15japan-kelly-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greg Kelly, a former Nissan executive, left in foreground, pleaded not guilty on the opening day of his trial on Tuesday.",
+          "copyright": "Pool photo by Kiyoshi Ota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/merlin_177040974_c83c8b3d-95c6-4bde-9d6f-0456de25c05e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greg Kelly, a former Nissan executive, left in foreground, pleaded not guilty on the opening day of his trial on Tuesday.",
+          "copyright": "Pool photo by Kiyoshi Ota"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/world/15japan-kelly-1/merlin_177040974_c83c8b3d-95c6-4bde-9d6f-0456de25c05e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Greg Kelly, a former Nissan executive, left in foreground, pleaded not guilty on the opening day of his trial on Tuesday.",
+          "copyright": "Pool photo by Kiyoshi Ota"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ZCIMhH"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Looking to Buy a Used Car in the Pandemic? So Is Everyone Else",
+      "abstract": "Eager to avoid public transit and Uber, and to save money, buyers are emptying dealerships.",
+      "url": "https://www.nytimes.com/2020/09/07/business/used-cars-pandemic.html",
+      "uri": "nyt://article/7742b59b-fc2e-5dbe-a84c-9a0e75aaa3ba",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2020-09-10T11:07:20-04:00",
+      "created_date": "2020-09-07T10:28:46-04:00",
+      "published_date": "2020-09-07T10:28:46-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Used Cars",
+        "Quarantine (Life and Culture)",
+        "Consumer Behavior",
+        "Coronavirus (2019-nCoV)",
+        "Personal Finances",
+        "Prices (Fares, Fees and Rates)",
+        "Factories and Manufacturing"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Used car prices have jumped during the pandemic as buyers worry about using public transit, hailing rides or tightened finances.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Used car prices have jumped during the pandemic as buyers worry about using public transit, hailing rides or tightened finances.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Used car prices have jumped during the pandemic as buyers worry about using public transit, hailing rides or tightened finances.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Used car prices have jumped during the pandemic as buyers worry about using public transit, hailing rides or tightened finances.",
+          "copyright": "David Degner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/06/business/06used-cars1-copy/06used-cars1-copy-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Used car prices have jumped during the pandemic as buyers worry about using public transit, hailing rides or tightened finances.",
+          "copyright": "David Degner for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jXfkuu"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "A Nostalgic (if Isolating) Road Trip Along Route 66",
+      "abstract": "Driven by an early fascination with the American West, a photographer set off to travel part of America\u2019s most celebrated highway.",
+      "url": "https://www.nytimes.com/2020/09/07/travel/route-66.html",
+      "uri": "nyt://article/8938234a-26ac-5e54-84d1-c8d8b30d8609",
+      "byline": "By Luke Sharrett",
+      "item_type": "Article",
+      "updated_date": "2020-09-13T13:33:08-04:00",
+      "created_date": "2020-09-07T05:00:26-04:00",
+      "published_date": "2020-09-07T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "The World Through a Lens",
+      "des_facet": [
+        "Road Trips",
+        "Travel and Vacations",
+        "Native Americans"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Arizona",
+        "New Mexico",
+        "Albuquerque (NM)",
+        "Gallup (NM)",
+        "Holbrook (Ariz)",
+        "Winslow (Ariz)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/travel/07travel-highway-promo/merlin_175074576_c7ea1bd7-0ef6-4cb1-a18e-818342c09bad-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luke Sharrett"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/travel/07travel-highway-promo/07travel-highway-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luke Sharrett"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/travel/07travel-highway-promo/07travel-highway-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luke Sharrett"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/travel/07travel-highway-promo/07travel-highway-promo-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luke Sharrett"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/07/travel/07travel-highway-promo/merlin_175074576_c7ea1bd7-0ef6-4cb1-a18e-818342c09bad-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Luke Sharrett"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ZdMJsZ"
+    },
+    {
+      "section": "sports",
+      "subsection": "autoracing",
+      "title": "Ferrari Rolls Up Its Red Sleeves",
+      "abstract": "Its Formula 1 team is in a slump, but the company C.E.O., Louis Camilleri, is making changes that he says will eventually pay off.",
+      "url": "https://www.nytimes.com/2020/09/04/sports/autoracing/ferrari-rolls-up-its-red-sleeves.html",
+      "uri": "nyt://article/97141759-6049-5726-9667-7bd1fec1e607",
+      "byline": "By Ian Parkes",
+      "item_type": "Article",
+      "updated_date": "2020-09-08T13:14:19-04:00",
+      "created_date": "2020-09-04T05:00:33-04:00",
+      "published_date": "2020-09-04T05:00:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobile Racing",
+        "Automobiles"
+      ],
+      "org_facet": [
+        "Ferrari SpA",
+        "Formula One"
+      ],
+      "per_facet": [
+        "Binotto, Mattia",
+        "Camilleri, Louis C"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05SP-F1-FERRARI-INYT1/05SP-F1-FERRARI-INYT1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sebastian Vettel during practice for the Spanish Grand Prix last month. Carlos Sainz Jr. is set to replace Vettel next season.",
+          "copyright": "Pool photo by Emilio Morenatti"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05SP-F1-FERRARI-INYT1/05SP-F1-FERRARI-INYT1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sebastian Vettel during practice for the Spanish Grand Prix last month. Carlos Sainz Jr. is set to replace Vettel next season.",
+          "copyright": "Pool photo by Emilio Morenatti"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05SP-F1-FERRARI-INYT1/05SP-F1-FERRARI-INYT1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sebastian Vettel during practice for the Spanish Grand Prix last month. Carlos Sainz Jr. is set to replace Vettel next season.",
+          "copyright": "Pool photo by Emilio Morenatti"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05SP-F1-FERRARI-INYT1/05SP-F1-FERRARI-INYT1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sebastian Vettel during practice for the Spanish Grand Prix last month. Carlos Sainz Jr. is set to replace Vettel next season.",
+          "copyright": "Pool photo by Emilio Morenatti"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05SP-F1-FERRARI-INYT1/05SP-F1-FERRARI-INYT1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sebastian Vettel during practice for the Spanish Grand Prix last month. Carlos Sainz Jr. is set to replace Vettel next season.",
+          "copyright": "Pool photo by Emilio Morenatti"
+        }
+      ],
+      "short_url": "https://nyti.ms/330YTGK"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Endurance Racing With Cars That Belong in a Demolition Derby",
+      "abstract": "Autos worth $500 or less have competed for 15 years in a circuslike race called 24 Hours of Lemons. Now electric vehicles have been invited, with no limit on spending.",
+      "url": "https://www.nytimes.com/2020/09/03/business/electric-race-cars-24-hours-of-lemons.html",
+      "uri": "nyt://article/f8d31a6b-da5e-5342-b45a-6f4bafa6cf95",
+      "byline": "By Bradley Berman",
+      "item_type": "Article",
+      "updated_date": "2020-09-07T04:11:11-04:00",
+      "created_date": "2020-09-03T06:00:08-04:00",
+      "published_date": "2020-09-03T06:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobile Racing",
+        "Electric and Hybrid Vehicles"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Lamm, Jay"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/04/business/04wheels1/merlin_176488131_c84d7fc2-ddec-4941-9dad-1c1fd4382a0e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cars in 24 Hours of Lemons races can&rsquo;t cost more than $500. A Cadillac muscle car during a race.",
+          "copyright": "24 Hours of Lemons"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/04/business/04wheels1/03wheels1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cars in 24 Hours of Lemons races can&rsquo;t cost more than $500. A Cadillac muscle car during a race.",
+          "copyright": "24 Hours of Lemons"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/04/business/04wheels1/03wheels1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cars in 24 Hours of Lemons races can&rsquo;t cost more than $500. A Cadillac muscle car during a race.",
+          "copyright": "24 Hours of Lemons"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/04/business/04wheels1/merlin_176488131_c84d7fc2-ddec-4941-9dad-1c1fd4382a0e-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cars in 24 Hours of Lemons races can&rsquo;t cost more than $500. A Cadillac muscle car during a race.",
+          "copyright": "24 Hours of Lemons"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/04/business/04wheels1/merlin_176488131_c84d7fc2-ddec-4941-9dad-1c1fd4382a0e-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The cars in 24 Hours of Lemons races can&rsquo;t cost more than $500. A Cadillac muscle car during a race.",
+          "copyright": "24 Hours of Lemons"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lOBbpN"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Who Needs a $100,000 Car Right Now? Mercedes Thinks You Do",
+      "abstract": "Defying the pandemic, the German carmaker began producing a new S-Class, one of its biggest moneymakers. But can it catch up to Tesla?",
+      "url": "https://www.nytimes.com/2020/09/02/business/mercedes-benz-covid-sclass.html",
+      "uri": "nyt://article/3eb61e04-2d5b-5541-8553-f145581e4db8",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-09-03T11:50:56-04:00",
+      "created_date": "2020-09-02T13:45:09-04:00",
+      "published_date": "2020-09-02T13:45:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Factories and Manufacturing",
+        "Electric and Hybrid Vehicles",
+        "Automobiles",
+        "Coronavirus (2019-nCoV)",
+        "Luxury Goods and Services"
+      ],
+      "org_facet": [
+        "Mercedes-Benz",
+        "Daimler AG",
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Musk, Elon",
+        "Kallenius, Ola",
+        "Kretschmann, Winfried"
+      ],
+      "geo_facet": [
+        "Stuttgart (Germany)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/02/business/02mercedes-1/merlin_176483544_372c29ac-7f67-4dd7-83e2-1f20d3d1eed3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-Benz S-Class is \u201cvery important to us,\u201d said Ola K\u00e4llenius, the chief executive of Daimler, at the opening of the production line Wednesday.",
+          "copyright": "Philipp Guelland/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/02/business/02mercedes-1/02mercedes-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-Benz S-Class is \u201cvery important to us,\u201d said Ola K\u00e4llenius, the chief executive of Daimler, at the opening of the production line Wednesday.",
+          "copyright": "Philipp Guelland/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/02/business/02mercedes-1/02mercedes-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-Benz S-Class is \u201cvery important to us,\u201d said Ola K\u00e4llenius, the chief executive of Daimler, at the opening of the production line Wednesday.",
+          "copyright": "Philipp Guelland/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/02/business/02mercedes-1/02mercedes-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-Benz S-Class is \u201cvery important to us,\u201d said Ola K\u00e4llenius, the chief executive of Daimler, at the opening of the production line Wednesday.",
+          "copyright": "Philipp Guelland/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/02/business/02mercedes-1/02mercedes-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-Benz S-Class is \u201cvery important to us,\u201d said Ola K\u00e4llenius, the chief executive of Daimler, at the opening of the production line Wednesday.",
+          "copyright": "Philipp Guelland/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3gTb516"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Dennis Williams, Former U.A.W. Leader, Is Accused of Conspiracy",
+      "abstract": "The ex-president of the United Auto Workers was charged with using union funds for personal expenses. The case is part of a long federal investigation.",
+      "url": "https://www.nytimes.com/2020/08/27/business/uaw-dennis-williams.html",
+      "uri": "nyt://article/2a6eef49-093e-5244-944e-69971e172d41",
+      "byline": "By Neal E. Boudette and Noam Scheiber",
+      "item_type": "Article",
+      "updated_date": "2020-08-28T01:35:45-04:00",
+      "created_date": "2020-08-27T12:57:47-04:00",
+      "published_date": "2020-08-27T12:57:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Organized Labor",
+        "Automobiles",
+        "Embezzlement",
+        "Corruption (Institutional)"
+      ],
+      "org_facet": [
+        "United Automobile Workers",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Williams, Dennis (1953- )",
+        "Jones, Gary (1956- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27uaw1/merlin_139510488_10b08f1a-cffb-45d5-b3b0-e0fedf085954-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1458,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal prosecutors have accused Dennis Williams, a former president of the United Auto Workers, of using union funds to pay for personal expenses.",
+          "copyright": "Rebecca Cook/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27uaw1/27uaw1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal prosecutors have accused Dennis Williams, a former president of the United Auto Workers, of using union funds to pay for personal expenses.",
+          "copyright": "Rebecca Cook/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27uaw1/27uaw1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal prosecutors have accused Dennis Williams, a former president of the United Auto Workers, of using union funds to pay for personal expenses.",
+          "copyright": "Rebecca Cook/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27uaw1/27uaw1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal prosecutors have accused Dennis Williams, a former president of the United Auto Workers, of using union funds to pay for personal expenses.",
+          "copyright": "Rebecca Cook/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27uaw1/merlin_139510488_10b08f1a-cffb-45d5-b3b0-e0fedf085954-articleInline.jpg",
+          "format": "Normal",
+          "height": 135,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Federal prosecutors have accused Dennis Williams, a former president of the United Auto Workers, of using union funds to pay for personal expenses.",
+          "copyright": "Rebecca Cook/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lrAylO"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Soon, the Kitty Litter Will Come by Electric Truck",
+      "abstract": "With deliveries surging during the pandemic, carriers like UPS and FedEx and companies like Amazon are renewing their push toward electric vehicles.",
+      "url": "https://www.nytimes.com/2020/08/27/business/electric-delivery-vehicles-ups-fedex-amazon.html",
+      "uri": "nyt://article/d2a7d67d-9eb3-55f5-a7c7-5738f93f95d5",
+      "byline": "By Jim Motavalli",
+      "item_type": "Article",
+      "updated_date": "2020-08-31T17:39:54-04:00",
+      "created_date": "2020-08-27T06:00:09-04:00",
+      "published_date": "2020-08-27T06:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Delivery Services",
+        "Trucks and Trucking",
+        "Fuel Emissions (Transportation)",
+        "E-Commerce",
+        "Shopping and Retail"
+      ],
+      "org_facet": [
+        "United Parcel Service Inc",
+        "Fedex Corporation",
+        "Amazon.com Inc",
+        "Rivian Automotive LLC",
+        "Bollinger Motors LLC"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27wheels1/merlin_143401959_cdb1e5e7-fdb1-4097-8b0f-ed2ed043fbb5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electric UPS truck in London in 2018. UPS is eager to electrify its fleet, but capable vehicles are just starting to trickle out from manufacturers.",
+          "copyright": "Jeremie Souteyrat for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27wheels1/merlin_143401959_cdb1e5e7-fdb1-4097-8b0f-ed2ed043fbb5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electric UPS truck in London in 2018. UPS is eager to electrify its fleet, but capable vehicles are just starting to trickle out from manufacturers.",
+          "copyright": "Jeremie Souteyrat for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27wheels1/merlin_143401959_cdb1e5e7-fdb1-4097-8b0f-ed2ed043fbb5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electric UPS truck in London in 2018. UPS is eager to electrify its fleet, but capable vehicles are just starting to trickle out from manufacturers.",
+          "copyright": "Jeremie Souteyrat for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27wheels1/merlin_143401959_cdb1e5e7-fdb1-4097-8b0f-ed2ed043fbb5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electric UPS truck in London in 2018. UPS is eager to electrify its fleet, but capable vehicles are just starting to trickle out from manufacturers.",
+          "copyright": "Jeremie Souteyrat for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/27/business/27wheels1/merlin_143401959_cdb1e5e7-fdb1-4097-8b0f-ed2ed043fbb5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An electric UPS truck in London in 2018. UPS is eager to electrify its fleet, but capable vehicles are just starting to trickle out from manufacturers.",
+          "copyright": "Jeremie Souteyrat for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2D6JXOA"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Electric Vehicle Makers Find a Back Door to Wall Street",
+      "abstract": "Special purpose acquisition companies, or SPACs, are helping them and other fledgling companies raise money and gain coveted stock listings.",
+      "url": "https://www.nytimes.com/2020/08/23/business/electric-cars-spac-wall-street.html",
+      "uri": "nyt://article/570ab610-e723-54a2-b8b2-61e9c9927bf2",
+      "byline": "By Neal E. Boudette and Kate Kelly",
+      "item_type": "Article",
+      "updated_date": "2020-09-21T13:36:54-04:00",
+      "created_date": "2020-08-23T05:00:13-04:00",
+      "published_date": "2020-08-23T05:00:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Mergers, Acquisitions and Divestitures",
+        "Automobiles",
+        "Electric and Hybrid Vehicles",
+        "Stocks and Bonds",
+        "Initial Public Offerings",
+        "Trucks and Trucking",
+        "Banking and Financial Institutions",
+        "Start-ups"
+      ],
+      "org_facet": [
+        "Lordstown Motors",
+        "Tesla Motors Inc"
+      ],
+      "per_facet": [
+        "Ackman, William A"
+      ],
+      "geo_facet": [
+        "Lordstown (Ohio)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/24/business/23EV-SPAC1/merlin_175951086_3ca4ff8c-2fdc-4880-b843-e34462fa3022-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burns said merging his Ohio business, Lordstown Motors, with a special purpose acquisition company would allow him to start building electric pickups relatively quickly.",
+          "copyright": "Ross Mantle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/24/business/23EV-SPAC1/23EV-SPAC1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burns said merging his Ohio business, Lordstown Motors, with a special purpose acquisition company would allow him to start building electric pickups relatively quickly.",
+          "copyright": "Ross Mantle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/24/business/23EV-SPAC1/23EV-SPAC1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burns said merging his Ohio business, Lordstown Motors, with a special purpose acquisition company would allow him to start building electric pickups relatively quickly.",
+          "copyright": "Ross Mantle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/24/business/23EV-SPAC1/23EV-SPAC1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burns said merging his Ohio business, Lordstown Motors, with a special purpose acquisition company would allow him to start building electric pickups relatively quickly.",
+          "copyright": "Ross Mantle for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/24/business/23EV-SPAC1/merlin_175951086_3ca4ff8c-2fdc-4880-b843-e34462fa3022-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Steve Burns said merging his Ohio business, Lordstown Motors, with a special purpose acquisition company would allow him to start building electric pickups relatively quickly.",
+          "copyright": "Ross Mantle for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FItHEg"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "All About Roundabouts",
+      "abstract": "Rotaries, traffic circles or however you know them, they\u2019re often frustrating for American motorists. They are designed to lessen accidents, but that\u2019s not always the effect.",
+      "url": "https://www.nytimes.com/2020/08/20/business/roundabouts-traffic-circles.html",
+      "uri": "nyt://article/5e816d64-66a5-59e3-bfa1-d6bb0eb35fef",
+      "byline": "By Paul Stenquist",
+      "item_type": "Article",
+      "updated_date": "2020-08-24T09:18:57-04:00",
+      "created_date": "2020-08-20T06:00:08-04:00",
+      "published_date": "2020-08-20T06:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Roads and Traffic",
+        "Traffic Accidents and Safety",
+        "Traffic and Parking Signals and Signs"
+      ],
+      "org_facet": [
+        "Federal Highway Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/business/20wheels-circles1/merlin_155499672_d44b7a60-62ec-4009-b685-9f6f4f578515-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1463,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A roundabout in Switzerland designed to look like a record player.",
+          "copyright": "Peter Klaunzer/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/business/20wheels-circles1/20wheels-circles1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A roundabout in Switzerland designed to look like a record player.",
+          "copyright": "Peter Klaunzer/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/business/20wheels-circles1/20wheels-circles1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A roundabout in Switzerland designed to look like a record player.",
+          "copyright": "Peter Klaunzer/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/business/20wheels-circles1/merlin_155499672_d44b7a60-62ec-4009-b685-9f6f4f578515-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A roundabout in Switzerland designed to look like a record player.",
+          "copyright": "Peter Klaunzer/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/20/business/20wheels-circles1/merlin_155499672_d44b7a60-62ec-4009-b685-9f6f4f578515-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A roundabout in Switzerland designed to look like a record player.",
+          "copyright": "Peter Klaunzer/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Steering Wheels\u2019 Past, Present and (Autonomous) Future",
+      "abstract": "Today, they\u2019re wired and heated, laden with controls. Soon, they could be reserved only for classic cars.",
+      "url": "https://www.nytimes.com/2020/08/20/business/steering-wheels-history.html",
+      "uri": "nyt://article/4f81ec5e-6cb9-53ed-a42f-a6d566d5ecfe",
+      "byline": "By Stephen Williams",
+      "item_type": "Article",
+      "updated_date": "2020-08-20T23:53:43-04:00",
+      "created_date": "2020-08-20T06:00:06-04:00",
+      "published_date": "2020-08-20T06:00:06-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobiles",
+        "Driverless and Semiautonomous Vehicles"
+      ],
+      "org_facet": [
+        "Cruise LLC",
+        "General Motors"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/business/20wheels-print/merlin_142345089_a79af477-8c4e-470e-be83-7808c1cc824d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A 1962 Ferrari 250 GTO, with classic steering wheel.",
+          "copyright": "RM Sotheby's/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/business/20wheels-print/merlin_142345089_a79af477-8c4e-470e-be83-7808c1cc824d-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A 1962 Ferrari 250 GTO, with classic steering wheel.",
+          "copyright": "RM Sotheby's/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/business/20wheels-print/merlin_142345089_a79af477-8c4e-470e-be83-7808c1cc824d-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A 1962 Ferrari 250 GTO, with classic steering wheel.",
+          "copyright": "RM Sotheby's/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/business/20wheels-print/merlin_142345089_a79af477-8c4e-470e-be83-7808c1cc824d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A 1962 Ferrari 250 GTO, with classic steering wheel.",
+          "copyright": "RM Sotheby's/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/21/business/20wheels-print/merlin_142345089_a79af477-8c4e-470e-be83-7808c1cc824d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A 1962 Ferrari 250 GTO, with classic steering wheel.",
+          "copyright": "RM Sotheby's/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YkFA9X"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Uber and Lyft Consider Franchise-Like Model in California",
+      "abstract": "Under pressure to classify their freelance drivers as employees, the ride-hailing companies are discussing another option.",
+      "url": "https://www.nytimes.com/2020/08/18/technology/uber-lyft-franchise-california.html",
+      "uri": "nyt://article/edacd496-a404-5db7-894a-c0a75f922521",
+      "byline": "By Kate Conger",
+      "item_type": "Article",
+      "updated_date": "2020-08-20T14:30:44-04:00",
+      "created_date": "2020-08-18T05:00:23-04:00",
+      "published_date": "2020-08-18T05:00:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Car Services and Livery Cabs",
+        "Wages and Salaries",
+        "Mobile Applications",
+        "State Legislatures",
+        "Automobiles",
+        "Freelancing, Self-Employment and Independent Contracting",
+        "Franchises",
+        "Labor and Jobs",
+        "Taxicabs and Taxicab Drivers",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Lyft Inc",
+        "Uber Technologies Inc"
+      ],
+      "per_facet": [
+        "Khosrowshahi, Dara",
+        "Zimmer, John (1984- )"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/18/business/18ridefranchise1/18ridefranchise1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber and Lyft have separately discussed plans to license their technology to those who want to operate fleets of ride-hailing cars in California.",
+          "copyright": "Sarahbeth Maney for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/18/business/18ridefranchise1/18ridefranchise1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber and Lyft have separately discussed plans to license their technology to those who want to operate fleets of ride-hailing cars in California.",
+          "copyright": "Sarahbeth Maney for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/18/business/18ridefranchise1/18ridefranchise1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber and Lyft have separately discussed plans to license their technology to those who want to operate fleets of ride-hailing cars in California.",
+          "copyright": "Sarahbeth Maney for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/18/business/18ridefranchise1/18ridefranchise1-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber and Lyft have separately discussed plans to license their technology to those who want to operate fleets of ride-hailing cars in California.",
+          "copyright": "Sarahbeth Maney for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/18/business/18ridefranchise1/18ridefranchise1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber and Lyft have separately discussed plans to license their technology to those who want to operate fleets of ride-hailing cars in California.",
+          "copyright": "Sarahbeth Maney for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Q4cRBC"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Daimler to Settle U.S. Emissions Charges for $2.2 Billion",
+      "abstract": "The agreement is a small fraction of the sum that Volkswagen paid after admitting to emissions cheating in 2015.",
+      "url": "https://www.nytimes.com/2020/08/13/business/daimler-emissions-settlement-us.html",
+      "uri": "nyt://article/f75104ec-b26e-549a-b186-42f94a39f003",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-08-14T00:09:35-04:00",
+      "created_date": "2020-08-13T14:25:12-04:00",
+      "published_date": "2020-08-13T14:25:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Fuel Emissions (Transportation)",
+        "Fines (Penalties)"
+      ],
+      "org_facet": [
+        "Daimler AG",
+        "Mercedes-Benz",
+        "Volkswagen AG"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Germany",
+        "Stuttgart (Germany)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/14/business/13daimler-print/13daimler-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daimler is settling charges that it programmed Mercedes-Benz cars and trucks to cheat on emissions tests.",
+          "copyright": "Felix Schmitt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/14/business/13daimler-print/13daimler-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daimler is settling charges that it programmed Mercedes-Benz cars and trucks to cheat on emissions tests.",
+          "copyright": "Felix Schmitt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/14/business/13daimler-print/13daimler-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daimler is settling charges that it programmed Mercedes-Benz cars and trucks to cheat on emissions tests.",
+          "copyright": "Felix Schmitt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/14/business/13daimler-print/13daimler-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daimler is settling charges that it programmed Mercedes-Benz cars and trucks to cheat on emissions tests.",
+          "copyright": "Felix Schmitt for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/14/business/13daimler-print/13daimler-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Daimler is settling charges that it programmed Mercedes-Benz cars and trucks to cheat on emissions tests.",
+          "copyright": "Felix Schmitt for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3fPeT36"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "The Great Gotham Vroom Boom of 2020",
+      "abstract": "New Yorkers have historically been lukewarm on car ownership. Then came the you-know-what.",
+      "url": "https://www.nytimes.com/2020/08/12/style/car-buying-new-york-coronavirus.html",
+      "uri": "nyt://article/4668846d-84b4-5a59-89d2-8666424a7e9d",
+      "byline": "By Foster Kamer",
+      "item_type": "Article",
+      "updated_date": "2020-08-13T01:09:51-04:00",
+      "created_date": "2020-08-12T05:00:17-04:00",
+      "published_date": "2020-08-12T05:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Used Cars",
+        "Automobiles"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/13/fashion/12VIRUS-CARS-eli/12VIRUS-CARS-eli-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1843,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eli Razavi and his fianc&eacute;e Tamara with their recently purchased 1987 Mercedes-Benz 560 SL convertible.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/13/fashion/12VIRUS-CARS-eli/12VIRUS-CARS-eli-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eli Razavi and his fianc&eacute;e Tamara with their recently purchased 1987 Mercedes-Benz 560 SL convertible.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/13/fashion/12VIRUS-CARS-eli/12VIRUS-CARS-eli-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eli Razavi and his fianc&eacute;e Tamara with their recently purchased 1987 Mercedes-Benz 560 SL convertible.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/13/fashion/12VIRUS-CARS-eli/12VIRUS-CARS-eli-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eli Razavi and his fianc&eacute;e Tamara with their recently purchased 1987 Mercedes-Benz 560 SL convertible.",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/13/fashion/12VIRUS-CARS-eli/12VIRUS-CARS-eli-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 211,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eli Razavi and his fianc&eacute;e Tamara with their recently purchased 1987 Mercedes-Benz 560 SL convertible.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2DJOhnc"
+    },
+    {
+      "section": "sports",
+      "subsection": "autoracing",
+      "title": "A Formula 1 Season Like No Other",
+      "abstract": "The pandemic has forced the sport to patch together a schedule with new races and new tracks, with more to come. What\u2019s the same is Mercedes, which is still on top.",
+      "url": "https://www.nytimes.com/2020/08/07/sports/autoracing/formula-1-season-coronavirus.html",
+      "uri": "nyt://article/18699af9-a895-5f1e-9341-843c3ffff3fe",
+      "byline": "By Ian Parkes",
+      "item_type": "Article",
+      "updated_date": "2020-08-09T15:05:13-04:00",
+      "created_date": "2020-08-07T10:44:34-04:00",
+      "published_date": "2020-08-07T10:44:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Coronavirus (2019-nCoV)",
+        "Automobile Racing"
+      ],
+      "org_facet": [
+        "International Automobile Federation",
+        "Formula One"
+      ],
+      "per_facet": [
+        "Brawn, Ross"
+      ],
+      "geo_facet": [
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-season-inyt1/merlin_175229655_600a51ce-8a23-47ec-ab85-9b4828c86883-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Formula 1 now has a 13-race schedule including last week\u2019s British Grand Prix and Sunday\u2019s Formula 1 70th Anniversary Grand Prix, both at Silverstone.",
+          "copyright": "Pool photo by Bryn Lennon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-season-inyt1/08sp-f1-season-inyt1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Formula 1 now has a 13-race schedule including last week\u2019s British Grand Prix and Sunday\u2019s Formula 1 70th Anniversary Grand Prix, both at Silverstone.",
+          "copyright": "Pool photo by Bryn Lennon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-season-inyt1/08sp-f1-season-inyt1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Formula 1 now has a 13-race schedule including last week\u2019s British Grand Prix and Sunday\u2019s Formula 1 70th Anniversary Grand Prix, both at Silverstone.",
+          "copyright": "Pool photo by Bryn Lennon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-season-inyt1/08sp-f1-season-inyt1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Formula 1 now has a 13-race schedule including last week\u2019s British Grand Prix and Sunday\u2019s Formula 1 70th Anniversary Grand Prix, both at Silverstone.",
+          "copyright": "Pool photo by Bryn Lennon"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-season-inyt1/merlin_175229655_600a51ce-8a23-47ec-ab85-9b4828c86883-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Formula 1 now has a 13-race schedule including last week\u2019s British Grand Prix and Sunday\u2019s Formula 1 70th Anniversary Grand Prix, both at Silverstone.",
+          "copyright": "Pool photo by Bryn Lennon"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XDlXtz"
+    },
+    {
+      "section": "sports",
+      "subsection": "autoracing",
+      "title": "Lewis Hamilton Is Demanding Change",
+      "abstract": "The only Black driver in Formula 1 history says the sport has been too slow to increase diversity. \u201cWe\u2019ve not changed anything.\u201d",
+      "url": "https://www.nytimes.com/2020/08/07/sports/autoracing/lewis-hamilton-formula-1-diversity.html",
+      "uri": "nyt://article/7d2a2a2b-a20e-5a31-ab03-627d83ea480a",
+      "byline": "By Luke Smith",
+      "item_type": "Article",
+      "updated_date": "2020-08-07T09:58:40-04:00",
+      "created_date": "2020-08-07T09:58:40-04:00",
+      "published_date": "2020-08-07T09:58:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Race and Ethnicity",
+        "Automobiles"
+      ],
+      "org_facet": [
+        "Formula One",
+        "Daimler AG",
+        "Mercedes-Benz"
+      ],
+      "per_facet": [
+        "Hamilton, Lewis"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-diversity-inyt1/merlin_175234089_2c176d14-8ac6-41c9-a485-2360c0c01baa-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1401,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lewis Hamilton of Mercedes took a knee before the British Grand Prix on Aug. 2, flanked by the drivers Nicholas Latifi (Williams), left, and Sebastian Vettel (Ferrari).",
+          "copyright": "Bryn Lennon/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-diversity-inyt1/08sp-f1-diversity-inyt1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lewis Hamilton of Mercedes took a knee before the British Grand Prix on Aug. 2, flanked by the drivers Nicholas Latifi (Williams), left, and Sebastian Vettel (Ferrari).",
+          "copyright": "Bryn Lennon/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-diversity-inyt1/08sp-f1-diversity-inyt1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lewis Hamilton of Mercedes took a knee before the British Grand Prix on Aug. 2, flanked by the drivers Nicholas Latifi (Williams), left, and Sebastian Vettel (Ferrari).",
+          "copyright": "Bryn Lennon/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-diversity-inyt1/08sp-f1-diversity-inyt1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lewis Hamilton of Mercedes took a knee before the British Grand Prix on Aug. 2, flanked by the drivers Nicholas Latifi (Williams), left, and Sebastian Vettel (Ferrari).",
+          "copyright": "Bryn Lennon/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-diversity-inyt1/merlin_175234089_2c176d14-8ac6-41c9-a485-2360c0c01baa-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Lewis Hamilton of Mercedes took a knee before the British Grand Prix on Aug. 2, flanked by the drivers Nicholas Latifi (Williams), left, and Sebastian Vettel (Ferrari).",
+          "copyright": "Bryn Lennon/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/31wysYG"
+    },
+    {
+      "section": "sports",
+      "subsection": "autoracing",
+      "title": "No Fans, Fewer Workers. How Hard Could Holding Races at Silverstone Be?",
+      "abstract": "Stuart Pringle, who runs the track, said holding consecutive events at the storied circuit during the pandemic had been one challenge after another.",
+      "url": "https://www.nytimes.com/2020/08/07/sports/autoracing/formula-1-silverstone-pandemic.html",
+      "uri": "nyt://article/3d102fe3-204d-5dc9-b79e-a147bf4cfe94",
+      "byline": "By Ian Parkes",
+      "item_type": "Article",
+      "updated_date": "2020-08-07T15:26:43-04:00",
+      "created_date": "2020-08-07T09:37:45-04:00",
+      "published_date": "2020-08-07T09:37:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobile Racing",
+        "Coronavirus (2019-nCoV)",
+        "Quarantines"
+      ],
+      "org_facet": [
+        "Formula One",
+        "International Automobile Federation",
+        "Silverstone Circuit"
+      ],
+      "per_facet": [
+        "Pringle, Stuart"
+      ],
+      "geo_facet": [
+        "England"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-silverstone-inyt1/merlin_175163220_33bc67e7-85ec-4c60-b283-471c65699420-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1381,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The McLaren driver Lando Norris during a July 31 practice for the British Grand Prix at Silverstone. So far, no spectators have been allowed in the stands during races this season.",
+          "copyright": "Pool photo by Will Oliver"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-silverstone-inyt1/08sp-f1-silverstone-inyt1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The McLaren driver Lando Norris during a July 31 practice for the British Grand Prix at Silverstone. So far, no spectators have been allowed in the stands during races this season.",
+          "copyright": "Pool photo by Will Oliver"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-silverstone-inyt1/08sp-f1-silverstone-inyt1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The McLaren driver Lando Norris during a July 31 practice for the British Grand Prix at Silverstone. So far, no spectators have been allowed in the stands during races this season.",
+          "copyright": "Pool photo by Will Oliver"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-silverstone-inyt1/08sp-f1-silverstone-inyt1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The McLaren driver Lando Norris during a July 31 practice for the British Grand Prix at Silverstone. So far, no spectators have been allowed in the stands during races this season.",
+          "copyright": "Pool photo by Will Oliver"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/08/multimedia/08sp-f1-silverstone-inyt1/merlin_175163220_33bc67e7-85ec-4c60-b283-471c65699420-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The McLaren driver Lando Norris during a July 31 practice for the British Grand Prix at Silverstone. So far, no spectators have been allowed in the stands during races this season.",
+          "copyright": "Pool photo by Will Oliver"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kjR0UJ"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Uber\u2019s Revenue Craters, as Deliveries Surge in Pandemic",
+      "abstract": "Uber said revenue fell 29 percent in the second quarter because people traveled less, but food deliveries soared.",
+      "url": "https://www.nytimes.com/2020/08/06/technology/uber-ride-hailing-delivery-coronavirus.html",
+      "uri": "nyt://article/91e41ae4-20b7-5345-8713-3ce12d0d1639",
+      "byline": "By Kate Conger",
+      "item_type": "Article",
+      "updated_date": "2020-08-07T10:54:38-04:00",
+      "created_date": "2020-08-06T16:46:45-04:00",
+      "published_date": "2020-08-06T16:46:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Car Services and Livery Cabs",
+        "Delivery Services",
+        "Company Reports",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Uber Eats",
+        "Uber Technologies Inc"
+      ],
+      "per_facet": [
+        "Khosrowshahi, Dara"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/06/business/06markets-brf-uber/merlin_174443172_7c34e9f9-7a43-4d39-bdab-e0c3348aec87-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber\u2019s revenue decline in the second quarter was the steepest since it went public in May 2019.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/06/business/06markets-brf-uber/06markets-brf-uber-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber\u2019s revenue decline in the second quarter was the steepest since it went public in May 2019.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/06/business/06markets-brf-uber/06markets-brf-uber-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber\u2019s revenue decline in the second quarter was the steepest since it went public in May 2019.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/06/business/06markets-brf-uber/06markets-brf-uber-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber\u2019s revenue decline in the second quarter was the steepest since it went public in May 2019.",
+          "copyright": "Mark Abramson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/06/business/06markets-brf-uber/merlin_174443172_7c34e9f9-7a43-4d39-bdab-e0c3348aec87-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Uber\u2019s revenue decline in the second quarter was the steepest since it went public in May 2019.",
+          "copyright": "Mark Abramson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EZnCTG"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "\u2018Motorcycle of Tomorrow\u2019 Is Heavy on Flair and Light on the Environment",
+      "abstract": "Pineapple \u201cleather,\u201d flax seed instead of plastic: Tarform, based in Brooklyn, aims to set a standard with its retro-futuristic cafe racer.",
+      "url": "https://www.nytimes.com/2020/08/06/business/electric-motorcycle-tarform.html",
+      "uri": "nyt://article/aeef957e-7d0e-505f-9d70-b6f2bcdca77c",
+      "byline": "By Susan Carpenter",
+      "item_type": "Article",
+      "updated_date": "2020-08-10T18:52:35-04:00",
+      "created_date": "2020-08-06T05:00:29-04:00",
+      "published_date": "2020-08-06T05:00:29-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Motorcycles, Motor Bikes and Motorscooters",
+        "Luxury Goods and Services",
+        "Automobiles",
+        "Recycling of Waste Materials",
+        "Start-ups"
+      ],
+      "org_facet": [
+        "Tarform Inc"
+      ],
+      "per_facet": [
+        "Kravtchouk, Taras"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/07/business/06wheels-tarform1/06wheels-tarform1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taras Kravtchouk, founder of Tarform, riding one of his company\u2019s motorcycles in the Brooklyn Navy Yard.",
+          "copyright": "Ben Sklar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/07/business/06wheels-tarform1/06wheels-tarform1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taras Kravtchouk, founder of Tarform, riding one of his company\u2019s motorcycles in the Brooklyn Navy Yard.",
+          "copyright": "Ben Sklar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/07/business/06wheels-tarform1/06wheels-tarform1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taras Kravtchouk, founder of Tarform, riding one of his company\u2019s motorcycles in the Brooklyn Navy Yard.",
+          "copyright": "Ben Sklar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/07/business/06wheels-tarform1/06wheels-tarform1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taras Kravtchouk, founder of Tarform, riding one of his company\u2019s motorcycles in the Brooklyn Navy Yard.",
+          "copyright": "Ben Sklar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/07/business/06wheels-tarform1/06wheels-tarform1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Taras Kravtchouk, founder of Tarform, riding one of his company\u2019s motorcycles in the Brooklyn Navy Yard.",
+          "copyright": "Ben Sklar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ievi2A"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "The Teenage Tinkerer Behind an E-Bike Revolution",
+      "abstract": "Mike Radenbaugh dreamed up Rad Power Bikes over a decade ago in his family\u2019s garage and now sets the pace for affordable battery-propelled bicycles.",
+      "url": "https://www.nytimes.com/2020/08/06/business/electric-ebikes-rad-power-bikes.html",
+      "uri": "nyt://article/b85b3882-a72e-5bc2-b130-4b5bf18c95e2",
+      "byline": "By Bradley Berman",
+      "item_type": "Article",
+      "updated_date": "2020-08-07T00:49:19-04:00",
+      "created_date": "2020-08-06T05:00:13-04:00",
+      "published_date": "2020-08-06T05:00:13-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Bicycles and Bicycling",
+        "Motorcycles, Motor Bikes and Motorscooters",
+        "Electric and Hybrid Vehicles"
+      ],
+      "org_facet": [
+        "Rad Power Bikes LLC"
+      ],
+      "per_facet": [
+        "Radenbaugh, Michael"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/30/business/30wheels-rad3-copy/30wheels-rad3-copy-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Radendbaugh with the RadWagon 4, the company\u2019s latest model, extends the cargo-style frame to accommodate a long list of accessories.",
+          "copyright": "Meron Tekie Menghistab for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/30/business/30wheels-rad3-copy/30wheels-rad3-copy-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Radendbaugh with the RadWagon 4, the company\u2019s latest model, extends the cargo-style frame to accommodate a long list of accessories.",
+          "copyright": "Meron Tekie Menghistab for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/30/business/30wheels-rad3-copy/30wheels-rad3-copy-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Radendbaugh with the RadWagon 4, the company\u2019s latest model, extends the cargo-style frame to accommodate a long list of accessories.",
+          "copyright": "Meron Tekie Menghistab for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/30/business/30wheels-rad3-copy/30wheels-rad3-copy-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Radendbaugh with the RadWagon 4, the company\u2019s latest model, extends the cargo-style frame to accommodate a long list of accessories.",
+          "copyright": "Meron Tekie Menghistab for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/30/business/30wheels-rad3-copy/30wheels-rad3-copy-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Radendbaugh with the RadWagon 4, the company\u2019s latest model, extends the cargo-style frame to accommodate a long list of accessories.",
+          "copyright": "Meron Tekie Menghistab for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3kkAiVa"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Star Technologist Who Crossed Google Sentenced to 18 Months in Prison",
+      "abstract": "Anthony Levandowski, a onetime star Silicon Valley engineer of self-driving cars, had pleaded guilty to stealing trade secrets.",
+      "url": "https://www.nytimes.com/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html",
+      "uri": "nyt://article/797ce314-a4e8-502a-93c1-2f1acffe20a6",
+      "byline": "By Kate Conger",
+      "item_type": "Article",
+      "updated_date": "2020-08-05T02:03:50-04:00",
+      "created_date": "2020-08-04T20:43:55-04:00",
+      "published_date": "2020-08-04T20:43:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Driverless and Semiautonomous Vehicles",
+        "Automobiles",
+        "Industrial Espionage",
+        "Computers and the Internet",
+        "Intellectual Property",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": [
+        "Google Inc",
+        "Waymo",
+        "Uber Technologies Inc"
+      ],
+      "per_facet": [
+        "Levandowski, Anthony"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04levandowski2/merlin_161433504_890e9630-5bd1-47f0-b55c-504c6980e87a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1409,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": " Anthony Levandowski, a former Google and Uber engineer, agreed to pay $756,499 to Waymo, a self-driving business spun out of Google, as restitution for theft of trade secrets.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04levandowski2/04levandowski2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": " Anthony Levandowski, a former Google and Uber engineer, agreed to pay $756,499 to Waymo, a self-driving business spun out of Google, as restitution for theft of trade secrets.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04levandowski2/04levandowski2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": " Anthony Levandowski, a former Google and Uber engineer, agreed to pay $756,499 to Waymo, a self-driving business spun out of Google, as restitution for theft of trade secrets.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04levandowski2/04levandowski2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": " Anthony Levandowski, a former Google and Uber engineer, agreed to pay $756,499 to Waymo, a self-driving business spun out of Google, as restitution for theft of trade secrets.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04levandowski2/merlin_161433504_890e9630-5bd1-47f0-b55c-504c6980e87a-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": " Anthony Levandowski, a former Google and Uber engineer, agreed to pay $756,499 to Waymo, a self-driving business spun out of Google, as restitution for theft of trade secrets.",
+          "copyright": "Justin Sullivan/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2DlSey3"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Ford, Struggling in a Changing Industry, Replaces Its C.E.O.",
+      "abstract": "Jim Hackett, who failed to impress Wall Street, will be replaced by James Farley, an auto industry veteran who started his career at Toyota.",
+      "url": "https://www.nytimes.com/2020/08/04/business/ford-jim-hackett-james-farley.html",
+      "uri": "nyt://article/84ef2521-2f5d-55f1-b700-c774ddcd06d4",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2020-08-04T23:51:47-04:00",
+      "created_date": "2020-08-04T10:02:20-04:00",
+      "published_date": "2020-08-04T10:02:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Automobiles",
+        "Appointments and Executive Changes",
+        "Company Reports",
+        "Stocks and Bonds"
+      ],
+      "org_facet": [
+        "Ford Motor Co"
+      ],
+      "per_facet": [
+        "Hackett, Jim",
+        "Farley, James D Jr (1962- )",
+        "Ford, William Clay Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Hackett, outgoing Ford C.E.O., is credited with eliminating money-losing cars from the company\u2019s North American lineup.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Hackett, outgoing Ford C.E.O., is credited with eliminating money-losing cars from the company\u2019s North American lineup.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Hackett, outgoing Ford C.E.O., is credited with eliminating money-losing cars from the company\u2019s North American lineup.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Hackett, outgoing Ford C.E.O., is credited with eliminating money-losing cars from the company\u2019s North American lineup.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-articleInline.jpg",
+          "format": "Normal",
+          "height": 119,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jim Hackett, outgoing Ford C.E.O., is credited with eliminating money-losing cars from the company\u2019s North American lineup.",
+          "copyright": "Michael Noble Jr. for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2DaZptb"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Driving Across the Globe to Fight Child Trafficking",
+      "abstract": "Ren\u00e9e Brinkerhoff has been on a quest, on almost every continent, to use racing \u201cas a platform to do something about\u201d a global scourge. Next stop, Antarctica.",
+      "url": "https://www.nytimes.com/2020/08/02/business/brinkerhoff-racing-child-trafficking.html",
+      "uri": "nyt://article/1be200e0-4bea-5b7b-949e-66435225d7ee",
+      "byline": "By Mercedes Lilienthal",
+      "item_type": "Article",
+      "updated_date": "2020-08-03T00:00:54-04:00",
+      "created_date": "2020-08-02T06:00:10-04:00",
+      "published_date": "2020-08-02T06:00:10-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobiles",
+        "Philanthropy",
+        "Children and Childhood",
+        "Human Trafficking",
+        "Child Abuse and Neglect",
+        "Automobile Racing"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Brinkerhoff, Renee"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/08/03/business/02wheels1-print/02wheels-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren&eacute;e Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+          "copyright": "Christina Brinkerhoff"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/03/business/02wheels1-print/02wheels-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren&eacute;e Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+          "copyright": "Christina Brinkerhoff"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/03/business/02wheels1-print/02wheels-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren&eacute;e Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+          "copyright": "Christina Brinkerhoff"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/03/business/02wheels1-print/02wheels-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren&eacute;e Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+          "copyright": "Christina Brinkerhoff"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/08/03/business/02wheels1-print/02wheels-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ren&eacute;e Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+          "copyright": "Christina Brinkerhoff"
+        }
+      ],
+      "short_url": "https://nyti.ms/2XjmZue"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "3-D Printing, a Boon for Racers, Inches Closer for Carmakers",
+      "abstract": "The technology has helped F1 and NASCAR teams gain an edge, but it has not been practical on a large scale. That may be starting to change.",
+      "url": "https://www.nytimes.com/2020/07/30/business/3d-printing-car-parts-automakers.html",
+      "uri": "nyt://article/1bb6ae41-6e39-5df1-b1c9-299cd767473b",
+      "byline": "By Roy Furchgott",
+      "item_type": "Article",
+      "updated_date": "2020-07-31T00:20:06-04:00",
+      "created_date": "2020-07-30T06:00:09-04:00",
+      "published_date": "2020-07-30T06:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "3-D Printers",
+        "Automobiles",
+        "Factories and Manufacturing",
+        "Computers and the Internet",
+        "Automobile Racing"
+      ],
+      "org_facet": [
+        "Volkswagen AG",
+        "Formula One",
+        "National Assn of Stock Car Auto Racing",
+        "Divergent Technologies Inc"
+      ],
+      "per_facet": [
+        "Keselowski, Brad"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/30wheels1-print/merlin_175013073_be5fbf5b-1f21-4efc-b0e0-94fad2744dc8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Czinger 21C, made by Divergent Technologies, has a lightweight printed aluminum chassis.",
+          "copyright": "Czinger"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/30wheels1-print/merlin_175013073_be5fbf5b-1f21-4efc-b0e0-94fad2744dc8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Czinger 21C, made by Divergent Technologies, has a lightweight printed aluminum chassis.",
+          "copyright": "Czinger"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/30wheels1-print/merlin_175013073_be5fbf5b-1f21-4efc-b0e0-94fad2744dc8-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Czinger 21C, made by Divergent Technologies, has a lightweight printed aluminum chassis.",
+          "copyright": "Czinger"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/30wheels1-print/merlin_175013073_be5fbf5b-1f21-4efc-b0e0-94fad2744dc8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Czinger 21C, made by Divergent Technologies, has a lightweight printed aluminum chassis.",
+          "copyright": "Czinger"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/30wheels1-print/merlin_175013073_be5fbf5b-1f21-4efc-b0e0-94fad2744dc8-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Czinger 21C, made by Divergent Technologies, has a lightweight printed aluminum chassis.",
+          "copyright": "Czinger"
+        }
+      ],
+      "short_url": "https://nyti.ms/2D1KJMK"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Going Topless, Turning Heads",
+      "abstract": "Station wagons outsell them, but convertibles hold a special place in the hearts of drivers, and automakers still offer a smorgasbord of models.",
+      "url": "https://www.nytimes.com/2020/07/23/business/convertibles-summer-driving.html",
+      "uri": "nyt://article/d40a5ab1-d85a-5093-a7d7-46bc9cc6f51c",
+      "byline": "By Lawrence Ulrich",
+      "item_type": "Article",
+      "updated_date": "2020-07-24T19:06:17-04:00",
+      "created_date": "2020-07-23T06:00:08-04:00",
+      "published_date": "2020-07-23T06:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Convertibles (Autos)"
+      ],
+      "org_facet": [
+        "Ferrari SpA",
+        "Fiat Chrysler Automobiles NV",
+        "General Motors",
+        "Mazda Motor Corp",
+        "Mercedes-Benz",
+        "Nissan Motor Co",
+        "Porsche AG",
+        "Bayerische Motorenwerke AG"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23wheels1/23wheels1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-AMG S 63 Cabriolet. A $7,500 extra, the paint updates a historic Mercedes green from the 1950s and \u201960s.",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23wheels1/23wheels1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-AMG S 63 Cabriolet. A $7,500 extra, the paint updates a historic Mercedes green from the 1950s and \u201960s.",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23wheels1/23wheels1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-AMG S 63 Cabriolet. A $7,500 extra, the paint updates a historic Mercedes green from the 1950s and \u201960s.",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23wheels1/23wheels1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-AMG S 63 Cabriolet. A $7,500 extra, the paint updates a historic Mercedes green from the 1950s and \u201960s.",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23wheels1/23wheels1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new Mercedes-AMG S 63 Cabriolet. A $7,500 extra, the paint updates a historic Mercedes green from the 1950s and \u201960s.",
+          "copyright": "Bryan Derballa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ZQtXZu"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "In Electric Car Market, It\u2019s Tesla and a Jumbled Field of Also-Rans",
+      "abstract": "Most traditional carmakers are struggling to produce and market electric vehicles even as Tesla sells hundreds of thousands of its luxury models.",
+      "url": "https://www.nytimes.com/2020/07/22/business/tesla-electric-car-audi-polestar.html",
+      "uri": "nyt://article/db168bbe-f064-5e5c-a5c6-c0f8824d2844",
+      "byline": "By Neal E. Boudette",
+      "item_type": "Article",
+      "updated_date": "2020-07-23T00:43:07-04:00",
+      "created_date": "2020-07-22T05:00:22-04:00",
+      "published_date": "2020-07-22T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Sports Utility Vehicles and Light Trucks",
+        "Innovation"
+      ],
+      "org_facet": [
+        "Tesla Motors Inc",
+        "Audi Division of Volkswagen AG",
+        "Ford Motor Co",
+        "AB Volvo",
+        "General Motors",
+        "Rivian Automotive LLC",
+        "Volkswagen AG",
+        "Zhejiang Geely Holding Group",
+        "Polestar Performance AB"
+      ],
+      "per_facet": [
+        "Musk, Elon"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/20/business/00EV-FAIL1/merlin_174767025_75968fe8-c8fb-4b35-a317-1441cf24e2be-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polestar, a new electric vehicle company backed by Volvo and its parent company, is opening sales centers in California and New York to compete with Tesla.",
+          "copyright": "Damon Casarez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/20/business/00EV-FAIL1/00EV-FAIL1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polestar, a new electric vehicle company backed by Volvo and its parent company, is opening sales centers in California and New York to compete with Tesla.",
+          "copyright": "Damon Casarez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/20/business/00EV-FAIL1/00EV-FAIL1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polestar, a new electric vehicle company backed by Volvo and its parent company, is opening sales centers in California and New York to compete with Tesla.",
+          "copyright": "Damon Casarez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/20/business/00EV-FAIL1/00EV-FAIL1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polestar, a new electric vehicle company backed by Volvo and its parent company, is opening sales centers in California and New York to compete with Tesla.",
+          "copyright": "Damon Casarez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/20/business/00EV-FAIL1/merlin_174767025_75968fe8-c8fb-4b35-a317-1441cf24e2be-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Polestar, a new electric vehicle company backed by Volvo and its parent company, is opening sales centers in California and New York to compete with Tesla.",
+          "copyright": "Damon Casarez for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/32GFwEm"
+    }
+  ]
+}

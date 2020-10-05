@@ -1,0 +1,1281 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/de217dd9-3383-574a-9eaf-c0303570e794",
+      "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-covid.html",
+      "id": 100000007137500,
+      "asset_id": 100000007137500,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-03 17:28:04",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Presidents and Presidency (US);Tests (Medical);Twenty-Fifth Amendment (US Constitution);Presidential Election of 2020;Trump Coronavirus Positive Result;Trump, Donald J",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Tests Positive for the Coronavirus",
+      "abstract": "The president\u2019s result came after he spent months playing down the severity of the outbreak that has killed more than 207,000 in the United States and hours after insisting that \u201cthe end of the pandemic is in sight.\u201d",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidents and Presidency (US)",
+        "Tests (Medical)",
+        "Twenty-Fifth Amendment (US Constitution)",
+        "Presidential Election of 2020",
+        "Trump Coronavirus Positive Result"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s positive test result posed immediate challenges for the future of his campaign with barely a month until Election Day.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/politics/02dc-virus-trump-sub/02dc-virus-trump-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/politics/02dc-virus-trump-sub/merlin_177879399_b71eae36-09c6-4b20-91bc-172b699f76bb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/us/politics/02dc-virus-trump-sub/merlin_177879399_b71eae36-09c6-4b20-91bc-172b699f76bb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b950be50-d4bc-583b-8486-271f3af181b0",
+      "url": "https://www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.html",
+      "id": 100000007357966,
+      "asset_id": 100000007357966,
+      "source": "New York Times",
+      "published_date": "2020-09-27",
+      "updated": "2020-09-30 01:05:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Tax Returns;Conflicts of Interest;Presidential Election of 2020;Income Tax;Lobbying and Lobbyists;United States Politics and Government;Consultants;Tax Credits, Deductions and Exemptions;Credit and Debt;Trump, Donald J;Trump, Ivanka;Trump Organization;Internal Revenue Service",
+      "column": null,
+      "byline": "By David Leonhardt",
+      "type": "Article",
+      "title": "18 Revelations From a Trove of Trump Tax Records",
+      "abstract": "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings.",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Conflicts of Interest",
+        "Presidential Election of 2020",
+        "Income Tax",
+        "Lobbying and Lobbyists",
+        "United States Politics and Government",
+        "Consultants",
+        "Tax Credits, Deductions and Exemptions",
+        "Credit and Debt"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Ivanka"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trump\u2019s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/00picksix-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f0510da8-1ef8-5442-a909-8af53b7dbca4",
+      "url": "https://www.nytimes.com/2020/09/03/us/michael-reinoehl-arrest-portland-shooting.html",
+      "id": 100000007321101,
+      "asset_id": 100000007321101,
+      "source": "New York Times",
+      "published_date": "2020-09-03",
+      "updated": "2020-09-05 10:04:00",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Antifa Movement (US);George Floyd Protests (2020);Black Lives Matter Movement;Police Brutality, Misconduct and Shootings;Right-Wing Extremism and Alt-Right;Reinoehl, Michael (1972-2020);Danielson, Aaron J (d 2020);Patriot Prayer;Portland (Ore)",
+      "column": null,
+      "byline": "By Hallie Golden, Mike Baker and Adam Goldman",
+      "type": "Article",
+      "title": "Suspect in Fatal Portland Shooting Is Killed by Officers During Arrest",
+      "abstract": "Law enforcement agents killed Michael Forest Reinoehl while trying to arrest him, four officials said. He was being investigated in the fatal shooting of a supporter of a far-right group.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Antifa Movement (US)",
+        "George Floyd Protests (2020)",
+        "Black Lives Matter Movement",
+        "Police Brutality, Misconduct and Shootings",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [
+        "Patriot Prayer"
+      ],
+      "per_facet": [
+        "Reinoehl, Michael (1972-2020)",
+        "Danielson, Aaron J (d 2020)"
+      ],
+      "geo_facet": [
+        "Portland (Ore)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Reinoehl was killed by a federally led fugitive task force in Lacey, Wash., on Thursday. He was being investigated in a fatal shooting at a Portland protest.",
+          "copyright": "Joshua Bessex for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/us/03portland-suspect-alt/03portland-suspect-alt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/us/03portland-suspect-alt/03portland-suspect-alt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/us/03portland-suspect-alt/03portland-suspect-alt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d672e524-44c4-50ad-b93e-54d33a8f8bca",
+      "url": "https://www.nytimes.com/2020/09/05/us/Texas-boat-parade-trump.html",
+      "id": 100000007326602,
+      "asset_id": 100000007326602,
+      "source": "New York Times",
+      "published_date": "2020-09-05",
+      "updated": "2020-09-08 11:43:12",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Boats and Boating;Parades;Maritime Accidents and Safety;Rescues;Trump, Donald J;Lake Travis (Tex)",
+      "column": null,
+      "byline": "By Bryan Pietsch and Aimee Ortiz",
+      "type": "Article",
+      "title": "At Least 4 Boats Sink During \u2018Trump Boat Parade\u2019 in Texas, Officials Say",
+      "abstract": "No injuries were immediately reported at the event, which was taking place on Lake Travis.",
+      "des_facet": [
+        "Boats and Boating",
+        "Parades",
+        "Maritime Accidents and Safety",
+        "Rescues"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Lake Travis (Tex)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Owners of boats of \u201call shapes and sizes\u201d were encouraged to participate and to decorate their craft with \u201cas many Trump flags\u201d as possible at the event in Lake Travis in Texas, a Facebook page said.",
+          "copyright": "Bob Daemmrich",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05xp-boat-parade-pix/05xp-boat-parade-pix-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05xp-boat-parade-pix/05xp-boat-parade-pix-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/05/multimedia/05xp-boat-parade-pix/05xp-boat-parade-pix-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/80b21e7a-96e2-5ba3-b7cf-6f127cdad5a6",
+      "url": "https://www.nytimes.com/article/breonna-taylor-police.html",
+      "id": 100000007165120,
+      "asset_id": 100000007165120,
+      "source": "New York Times",
+      "published_date": "2020-05-30",
+      "updated": "2020-10-02 14:59:00",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Police Brutality, Misconduct and Shootings;Black Lives Matter Movement;Demonstrations, Protests and Riots;George Floyd Protests (2020);Taylor, Breonna (1993-2020);Louisville (Ky)",
+      "column": null,
+      "byline": "By Richard A. Oppel Jr., Derrick Bryson Taylor and Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "What We Know About Breonna Taylor\u2019s Case and Death",
+      "abstract": "Fury over the killing of Ms. Taylor by the police has fueled tense demonstrations in Louisville, Ky., and elsewhere.",
+      "des_facet": [
+        "Black People",
+        "Police Brutality, Misconduct and Shootings",
+        "Black Lives Matter Movement",
+        "Demonstrations, Protests and Riots",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Taylor, Breonna (1993-2020)"
+      ],
+      "geo_facet": [
+        "Louisville (Ky)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A memorial to Breonna Taylor at Jefferson Square Park in Louisville, Ky., on Wednesday.",
+          "copyright": "Xavier Burrell for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/23breonna-04-print/23breonna-04-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/23breonna-04-print/23breonna-04-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/23breonna-04-print/23breonna-04-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e57391a4-9eb6-50aa-8fc5-2494227f2467",
+      "url": "https://www.nytimes.com/2020/09/18/us/ruth-bader-ginsburg-dead.html",
+      "id": 100000007283185,
+      "asset_id": 100000007283185,
+      "source": "New York Times",
+      "published_date": "2020-09-18",
+      "updated": "2020-09-24 18:51:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Deaths (Obituaries);United States Politics and Government;Women and Girls;Women's Rights;Ginsburg, Ruth Bader;Supreme Court (US)",
+      "column": null,
+      "byline": "By Linda Greenhouse",
+      "type": "Article",
+      "title": "Ruth Bader Ginsburg, Supreme Court\u2019s Feminist Icon, Is Dead at 87",
+      "abstract": "The second woman appointed to the Supreme Court, Justice Ginsburg\u2019s pointed and powerful dissenting opinions earned her late-life rock stardom.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "United States Politics and Government",
+        "Women and Girls",
+        "Women's Rights"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Ruth Bader Ginsburg was the leader of the court\u2019s four-member liberal wing.Credit...",
+          "copyright": "Todd Heisler/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/19/reader-center/19ginsburg-promosub/19ginsburg-hp-sub-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2065d8c7-e3a9-5c06-ac1f-dfa3bad6be9b",
+      "url": "https://www.nytimes.com/2020/09/25/us/politics/amy-coney-barrett-supreme-court.html",
+      "id": 100000007353829,
+      "asset_id": 100000007353829,
+      "source": "New York Times",
+      "published_date": "2020-09-25",
+      "updated": "2020-09-26 13:19:01",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Appointments and Executive Changes;Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Barrett, Amy Coney;Ginsburg, Ruth Bader;Supreme Court (US);Senate",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump Selects Amy Coney Barrett to Fill Ginsburg\u2019s Seat on the Supreme Court",
+      "abstract": "The president\u2019s nomination of Judge Barrett, a favorite of conservatives, to replace Justice Ruth Bader Ginsburg, will kick off a furious and unprecedented scramble to confirm her in the Senate before Election Day.",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Senate"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Barrett, Amy Coney",
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump plans to announce on Saturday that Judge Amy Coney Barrett is his choice for the Supreme Court.",
+          "copyright": "Samuel Corum for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/politics/00dc-court-hfo/00dc-court-hfo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/politics/00dc-court-hfo/merlin_164596695_efbc8d77-2376-4f8a-9f78-87fc6fc52918-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/us/politics/00dc-court-hfo/merlin_164596695_efbc8d77-2376-4f8a-9f78-87fc6fc52918-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/febb4cbe-f23f-53ae-aafe-2ac57d01c829",
+      "url": "https://www.nytimes.com/2020/09/25/world/asia/trump-united-states.html",
+      "id": 100000007361040,
+      "asset_id": 100000007361040,
+      "source": "New York Times",
+      "published_date": "2020-09-25",
+      "updated": "2020-09-29 02:00:11",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "United States International Relations;Presidential Election of 2020;Coronavirus (2019-nCoV);United States Politics and Government;Trump, Donald J;Belarus;Canada;Germany;Mexico;Myanmar",
+      "column": null,
+      "byline": "By Hannah Beech",
+      "type": "Article",
+      "title": "\u2018I Feel Sorry for Americans\u2019: A Baffled World Watches the U.S.",
+      "abstract": "From Myanmar to Canada, people are asking: How did a superpower allow itself to be felled by a virus? And why won\u2019t the president commit to a peaceful transition of power?",
+      "des_facet": [
+        "United States International Relations",
+        "Presidential Election of 2020",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Belarus",
+        "Canada",
+        "Germany",
+        "Mexico",
+        "Myanmar"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Trump has refused to guarantee a peaceful transition of power, an unprecedented move by an American president.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/world/25trump-worldview3/merlin_177550689_26aa5830-2060-4cfa-a4f7-cc4cd20ce385-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/world/25trump-worldview3/merlin_177550689_26aa5830-2060-4cfa-a4f7-cc4cd20ce385-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/25/world/25trump-worldview3/merlin_177550689_26aa5830-2060-4cfa-a4f7-cc4cd20ce385-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b5304d1e-c782-5019-9bdf-9347f8214059",
+      "url": "https://www.nytimes.com/2020/09/20/arts/design/climate-clock-metronome-nyc.html",
+      "id": 100000007348514,
+      "asset_id": 100000007348514,
+      "source": "New York Times",
+      "published_date": "2020-09-20",
+      "updated": "2020-09-22 07:40:30",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Art;Global Warming;Greenhouse Gas Emissions;Watches and Clocks;Golan, Gan;Boyd, Andrew (Activist);Ginzel, Andrew;Jones, Kristin;Intergovernmental Panel on Climate Change;Related Cos;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Colin Moynihan",
+      "type": "Article",
+      "title": "A New York Clock That Told Time Now Tells the Time Remaining",
+      "abstract": "Metronome\u2019s digital clock in Manhattan has been reprogrammed to illustrate a critical window for action to prevent the effects of global warming from becoming irreversible.",
+      "des_facet": [
+        "Art",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Watches and Clocks"
+      ],
+      "org_facet": [
+        "Intergovernmental Panel on Climate Change",
+        "Related Cos"
+      ],
+      "per_facet": [
+        "Golan, Gan",
+        "Boyd, Andrew (Activist)",
+        "Ginzel, Andrew",
+        "Jones, Kristin"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Metronome and its Climate Clock, soon after it was activated.",
+          "copyright": "Jeenah Moon for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/21/arts/20clock1/20clock1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/21/arts/20clock1/20clock1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/21/arts/20clock1/20clock1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6f127ce3-5c24-52e0-a39e-3ca00c1e1d1a",
+      "url": "https://www.nytimes.com/2020/09/14/science/venus-life-clouds.html",
+      "id": 100000007331580,
+      "asset_id": 100000007331580,
+      "source": "New York Times",
+      "published_date": "2020-09-14",
+      "updated": "2020-09-17 11:07:02",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Venus (Planet);Extraterrestrial Life;Biology and Biochemistry;Research;Telescopes and Observatories;Microbiology;Space and Astronomy",
+      "column": null,
+      "byline": "By Shannon Stirone, Kenneth Chang and Dennis Overbye",
+      "type": "Article",
+      "title": "Life on Venus? Astronomers See a Signal in Its Clouds",
+      "abstract": "The detection of a gas in the planet\u2019s atmosphere could turn scientists\u2019 gaze to a planet long overlooked in the search for extraterrestrial life.",
+      "des_facet": [
+        "Venus (Planet)",
+        "Extraterrestrial Life",
+        "Biology and Biochemistry",
+        "Research",
+        "Telescopes and Observatories",
+        "Microbiology",
+        "Space and Astronomy"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An image of Venus, made with data recorded by Japan\u2019s Akatsuki spacecraft in 2016. So close, so similar and very mysterious, the planet is surprising scientists with a chemical signature spotted in its clouds.",
+          "copyright": "PLANET-C Project Team/JAXA",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/14/science/14SCI-VENUS1-alt/14SCI-VENUS1-alt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/14/science/14SCI-VENUS1-alt/14SCI-VENUS1-alt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/14/science/14SCI-VENUS1-alt/14SCI-VENUS1-alt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c90f49b-089a-5e75-9746-8ccfdfe018d1",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/melania-trump-tapes.html",
+      "id": 100000007373819,
+      "asset_id": 100000007373819,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:49:22",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "First Ladies (US);Audio Recordings, Downloads and Streaming;Family Separation Policy (US Immigration);Illegal Immigration;Books and Literature;United States Politics and Government;Trump, Melania;Winston Wolkoff, Stephanie;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "In Profane Rant, Melania Trump Takes Aim at Migrant Children and Critics",
+      "abstract": "The audio recording puts the first lady\u2019s frustrations on full display just weeks before President Trump faces the voters in his bid for a second term.",
+      "des_facet": [
+        "First Ladies (US)",
+        "Audio Recordings, Downloads and Streaming",
+        "Family Separation Policy (US Immigration)",
+        "Illegal Immigration",
+        "Books and Literature",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Winston Wolkoff, Stephanie",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first lady, Melania Trump, complained in a recorded conversation in 2018 about having to worry about Christmas decorations.",
+          "copyright": "Kevin Lamarque/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4b133845-70a5-5dfe-ad75-f3dee2776238",
+      "url": "https://www.nytimes.com/2020/10/03/us/politics/trump-covid-updates.html",
+      "id": 100000007376239,
+      "asset_id": 100000007376239,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-04 19:58:27",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);Remdesivir (Drug);Presidential Election of 2020;Appointments and Executive Changes;United States Politics and Government;Trump, Donald J;Conley, Sean Patrick;Meadows, Mark R (1959- );Barrett, Amy Coney;Reed, Walter, National Military Medical Center;Republican Party;Senate;Supreme Court (US)",
+      "column": null,
+      "byline": "By Peter Baker and Maggie Haberman",
+      "type": "Article",
+      "title": "Trump\u2019s Symptoms Described as \u2018Very Concerning\u2019 Even as Doctors Offer Rosier Picture",
+      "abstract": "The president\u2019s medical team refused to provide critical details and left open the impression that he was known to be sick a day earlier than previously reported, forcing them to backtrack later.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Remdesivir (Drug)",
+        "Presidential Election of 2020",
+        "Appointments and Executive Changes",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Reed, Walter, National Military Medical Center",
+        "Republican Party",
+        "Senate",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Conley, Sean Patrick",
+        "Meadows, Mark R (1959- )",
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A team of doctors reported on the condition of President Trump at Walter Reed National Military Medical Center in Bethesda, Md., on Saturday.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03dc-virus-trump-image1/03dc-virus-trump-image1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03dc-virus-trump-image1/03dc-virus-trump-image1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/03/multimedia/03dc-virus-trump-image1/03dc-virus-trump-image1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66c86d08-e26e-5326-892a-8776b90347cd",
+      "url": "https://www.nytimes.com/2020/10/01/style/chrissy-teigen-john-legend-baby.html",
+      "id": 100000007371484,
+      "asset_id": 100000007371484,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 14:56:46",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Models (Professional);Social Media;Miscarriages;Teigen, Chrissy;Legend, John",
+      "column": null,
+      "byline": "By Mike Ives",
+      "type": "Article",
+      "title": "Chrissy Teigen and John Legend Lose Baby After Pregnancy Complications",
+      "abstract": "\u201cDriving home from the hospital with no baby,\u201d Ms. Teigen wrote on Twitter. \u201cHow can this be real.\u201d She said she and her husband had decided to call the infant Jack.",
+      "des_facet": [
+        "Models (Professional)",
+        "Social Media",
+        "Miscarriages"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Teigen, Chrissy",
+        "Legend, John"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chrissy Teigen and John Legend in Beverly Hills, Calif., in February. She was recently admitted to the hospital with pregnancy complications.",
+          "copyright": "Ringo Chiu/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01TEIGEN-LEGEND02/01TEIGEN-LEGEND02-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01TEIGEN-LEGEND02/01TEIGEN-LEGEND02-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01TEIGEN-LEGEND02/01TEIGEN-LEGEND02-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/587ec74f-656f-5d4b-b850-87b83536fbcd",
+      "url": "https://www.nytimes.com/2020/09/04/us/after-6-murder-trials-and-nearly-24-years-charges-dropped-against-curtis-flowers.html",
+      "id": 100000007325874,
+      "asset_id": 100000007325874,
+      "source": "New York Times",
+      "published_date": "2020-09-04",
+      "updated": "2020-09-05 11:45:50",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Discrimination;Jury System;Prosecutorial Misconduct;Prisons and Prisoners;Murders, Attempted Murders and Homicides;Flowers, Curtis;Evans, Doug (Attorney);Supreme Court (US);Mississippi",
+      "column": null,
+      "byline": "By Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "After 6 Murder Trials and Nearly 24 Years, Charges Dropped Against Curtis Flowers",
+      "abstract": "Mr. Flowers had faced the possibility of a seventh trial in the quadruple-murder case from Mississippi.",
+      "des_facet": [
+        "Black People",
+        "Discrimination",
+        "Jury System",
+        "Prosecutorial Misconduct",
+        "Prisons and Prisoners",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Flowers, Curtis",
+        "Evans, Doug (Attorney)"
+      ],
+      "geo_facet": [
+        "Mississippi"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Curtis Flowers, center, as he exited the Winston-Choctaw Regional Correctional Facility in Louisville, Miss., in 2019.",
+          "copyright": "Rogelio V. Solis/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/04/us/04flowers/04flowers-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/04/us/04flowers/merlin_166056609_25d917cd-0a0a-4b33-9958-150ae20d711d-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/04/us/04flowers/merlin_166056609_25d917cd-0a0a-4b33-9958-150ae20d711d-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2ed2cfe0-7ce0-52ca-abca-201db1aa7d28",
+      "url": "https://www.nytimes.com/2020/09/23/us/breonna-taylor-decision-verdict.html",
+      "id": 100000007353715,
+      "asset_id": 100000007353715,
+      "source": "New York Times",
+      "published_date": "2020-09-23",
+      "updated": "2020-09-30 13:41:17",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black Lives Matter Movement;Police Brutality, Misconduct and Shootings;Hankison, Brett (Louisville, Ky, Police Officer);Mattingly, Jon (Louisville, Ky, Police Officer);Cosgrove, Myles (Louisville, Ky, Police Officer);Taylor, Breonna (1993-2020);Walker, Kenneth (March 13, 2020 Shooting);Police Department (Louisville, Ky);Louisville (Ky)",
+      "column": null,
+      "byline": "By The New York Times",
+      "type": "Article",
+      "title": "2 Officers Shot in Louisville Protests Over Breonna Taylor Charging Decision",
+      "abstract": "A grand jury didn\u2019t charge any officers with killing Ms. Taylor in her apartment, prompting protests nationwide. A former detective was indicted on three counts of \u201cwanton endangerment.\u201d",
+      "des_facet": [
+        "Black Lives Matter Movement",
+        "Police Brutality, Misconduct and Shootings"
+      ],
+      "org_facet": [
+        "Police Department (Louisville, Ky)"
+      ],
+      "per_facet": [
+        "Hankison, Brett (Louisville, Ky, Police Officer)",
+        "Mattingly, Jon (Louisville, Ky, Police Officer)",
+        "Cosgrove, Myles (Louisville, Ky, Police Officer)",
+        "Taylor, Breonna (1993-2020)",
+        "Walker, Kenneth (March 13, 2020 Shooting)"
+      ],
+      "geo_facet": [
+        "Louisville (Ky)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Breonna Taylor\u2019s mother, Tamika Palmer, left, after the city of Louisville, Ky., reached a $12 million settlement with her family last week.",
+          "copyright": "Xavier Burrell for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/21/us/00breonna-charges-1/00breonna-charges-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/21/us/00breonna-charges-1/merlin_177092004_2cbb2dbf-78d8-4626-be00-d2ac10649e3c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/21/us/00breonna-charges-1/merlin_177092004_2cbb2dbf-78d8-4626-be00-d2ac10649e3c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/60e480d1-d3ef-5759-a248-69ff3c0c1e50",
+      "url": "https://www.nytimes.com/2020/09/18/business/trump-tik-tok-wechat-ban.html",
+      "id": 100000007347937,
+      "asset_id": 100000007347937,
+      "source": "New York Times",
+      "published_date": "2020-09-18",
+      "updated": "2020-10-05 10:29:04",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Mobile Applications;Social Media;Computers and the Internet;Computer Security;Executive Orders and Memorandums;United States Politics and Government;Blacklisting;Trump, Donald J;Ross, Wilbur L Jr;TikTok (ByteDance);WeChat (Mobile App);China",
+      "column": null,
+      "byline": "By Ana Swanson, David McCabe and Jack Nicas",
+      "type": "Article",
+      "title": "Trump Administration to Ban TikTok and WeChat From U.S. App Stores",
+      "abstract": "It issued new rules that will cripple the operation of two popular Chinese-owned apps in the United States.",
+      "des_facet": [
+        "Mobile Applications",
+        "Social Media",
+        "Computers and the Internet",
+        "Computer Security",
+        "Executive Orders and Memorandums",
+        "United States Politics and Government",
+        "Blacklisting"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)",
+        "WeChat (Mobile App)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Ross, Wilbur L Jr"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration said it would bar TikTok and WeChat from U.S. app stores as of Sunday night.",
+          "copyright": "Al Drago for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/18/multimedia/18dc-apps-image/18dc-apps-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/18/multimedia/18dc-apps-image/18dc-apps-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/18/multimedia/18dc-apps-image/18dc-apps-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f698777b-ff5c-5231-b5a3-707d550fa45a",
+      "url": "https://www.nytimes.com/2020/09/30/business/media/chris-wallace-debate-moderator.html",
+      "id": 100000007370539,
+      "asset_id": 100000007370539,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 14:40:06",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Debates (Political);Presidential Election of 2020;United States Politics and Government;Wallace, Chris (1947- );Trump, Donald J;Biden, Joseph R Jr;Fox News Channel",
+      "column": null,
+      "byline": "By Michael M. Grynbaum",
+      "type": "Article",
+      "title": "Chris Wallace Calls Debate \u2018a Terrible Missed Opportunity\u2019",
+      "abstract": "The veteran anchor conceded he was initially \u201creluctant\u201d to step in during the Trump-Biden matchup. \u201cI\u2019ve never been through anything like this,\u201d he said.",
+      "des_facet": [
+        "News and News Media",
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Wallace, Chris (1947- )",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aad3923b-ed52-582d-be30-d016f3b8f737",
+      "url": "https://www.nytimes.com/2020/09/08/nyregion/donald-trump-jean-carroll-lawsuit-rape.html",
+      "id": 100000007330554,
+      "asset_id": 100000007330554,
+      "source": "New York Times",
+      "published_date": "2020-09-08",
+      "updated": "2020-09-09 17:12:26",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Suits and Litigation (Civil);Sex Crimes;Libel and Slander;Immunity from Prosecution;Presidential Election of 2020;Trump, Donald J;Carroll, E Jean;Justice Department;Manhattan (NYC)",
+      "column": null,
+      "byline": "By Alan Feuer",
+      "type": "Article",
+      "title": "Justice Dept. Intervenes to Help Trump in E. Jean Carroll Defamation Lawsuit",
+      "abstract": "Government lawyers made the unusual move of seeking to take over President Trump\u2019s defense in a suit brought by Ms. Carroll, who has accused Mr. Trump of raping her in the 1990s.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Sex Crimes",
+        "Libel and Slander",
+        "Immunity from Prosecution",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Carroll, E Jean"
+      ],
+      "geo_facet": [
+        "Manhattan (NYC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "E. Jean Carroll, a writer who has accused President Trump of raping her, sued him last November, claiming that he lied by publicly denying he had ever met her.",
+          "copyright": "Jefferson Siegel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/09/nyregion/08nytrump/08nytrump-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/09/nyregion/08nytrump/08nytrump-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/09/nyregion/08nytrump/08nytrump-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f8da7d9f-dec8-559e-ad96-bc30245a846a",
+      "url": "https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html",
+      "id": 100000007182686,
+      "asset_id": 100000007182686,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-22 17:13:54",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Content Type: Service;Post-Traumatic Stress Disorder;Psychology and Psychologists;Anxiety and Stress",
+      "column": null,
+      "byline": "By Eilene Zimmerman",
+      "type": "Article",
+      "title": "What Makes Some People More Resilient Than Others",
+      "abstract": "The very earliest days of our lives, and our closest relationships, can offer clues about how we cope with adversity.",
+      "des_facet": [
+        "Content Type: Service",
+        "Post-Traumatic Stress Disorder",
+        "Psychology and Psychologists",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Monika Aichele",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/53e5a34f-582f-5f4d-846d-793ddf327847",
+      "url": "https://www.nytimes.com/2020/10/02/us/politics/trump-succession-constitution.html",
+      "id": 100000007375011,
+      "asset_id": 100000007375011,
+      "source": "New York Times",
+      "published_date": "2020-10-02",
+      "updated": "2020-10-04 05:55:40",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidents and Presidency (US);United States Politics and Government;Constitution (US);Twenty-Fifth Amendment (US Constitution);Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);Appointments and Executive Changes;Trump, Donald J;Pence, Mike;Pelosi, Nancy",
+      "column": null,
+      "byline": "By Nicholas Fandos and Nick Corasaniti",
+      "type": "Article",
+      "title": "What if Trump Can\u2019t Run? Many Steps Are Clear, but Some Are Not",
+      "abstract": "The Constitution says the vice president is next in line if the president dies or can no longer serve, but things get murkier from there.",
+      "des_facet": [
+        "Presidents and Presidency (US)",
+        "United States Politics and Government",
+        "Constitution (US)",
+        "Twenty-Fifth Amendment (US Constitution)",
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Pence, Mike",
+        "Pelosi, Nancy"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence, 61, tested negative for the coronavirus on Friday.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-succession/02dc-succession-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-succession/02dc-succession-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-succession/02dc-succession-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
